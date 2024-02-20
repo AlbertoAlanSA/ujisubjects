@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UJI Subjects</string>
+
+    <string name="subject_code_text_view">Empty</string>
+    <string name="subject_name_text_view">Empty</string>
+
+    <string name="add_subject_button">Add subject</string>
+    <string name="no_subject_text_view">There are no subjects</string>
+
+    <string name="prefix_edit_text">Prefix</string>
+
+    <string name="updateButton">Update</string>
+</resources>
